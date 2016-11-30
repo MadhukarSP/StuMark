@@ -10,6 +10,10 @@ The application is used for following purposes.
 * A platform to sell or lend items to verified students.
 * A platform to advertise to verified students.
 
+## Frameworks
+
+Bootstrap and OpenJPA
+
 ## How to Install
 
 ### Requirements
